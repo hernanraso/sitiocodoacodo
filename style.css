@@ -1,0 +1,102 @@
+#navbar {
+    background: linear-gradient(to bottom,#353A40, #33393F);
+}
+
+#logo {
+    color: white;
+}
+
+#div-lista ul li a {
+    color: #86867C;
+}
+
+#div-lista ul li a:hover {
+    color: white;
+}
+
+.titulo-card {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+#cards-div {
+    width: 70%;
+}
+
+.title-form {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.p-form {
+    text-align: center;
+    padding-top: 5px;
+    margin-bottom: 5px;
+}
+
+.foot {
+    background: linear-gradient(to bottom,#1A3644, #1C5372);
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+    
+}
+
+.foot ul li a{
+    color: white;
+}
+
+.text-carrusel {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    position: absolute;
+    z-index: 30;
+    color: white;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-top: 30%;
+    margin-right: 8%;
+    
+}
+
+.text-carrusel p {
+    text-align: right;
+    width: 40%;
+}
+
+.carousel-item img {
+    filter: brightness(40%);
+}
+
+#bnt-js {
+    padding: 1.5px;
+    font-size: 12px;
+
+}
+
+#btn-rt {
+    color: white;
+    padding: 1.5px;
+    font-size: 12px;
+}
+
+#bnt-ne {
+    padding: 1.5px;
+    font-size: 12px;
+}
+
+.h-form {
+    color: white;
+}
+
+.div-form {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
